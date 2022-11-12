@@ -1,0 +1,310 @@
+/* color-1 Glaucous */
+
+.btn-Tango-Glaucous{
+    background-color:#F26619 !important;
+}
+
+.btn-Tango-Glaucous:hover{
+    background-color: rgb(219, 103, 57) !important;
+   
+}
+
+.bg-Tango-Glaucous{
+    background-color:#F26619 !important;
+}
+
+.border-Tango-Glaucous-1{
+    border: 1px solid#F26619 !important;
+}
+
+.border-Tango-Glaucous-2{
+    border: 2px solid#F26619 !important;
+}
+
+.border-Tango-Glaucous-3{
+    border: 3px solid#F26619 !important;
+}
+
+.border-Tango-Glaucous-4{
+    border: 4px solid#F26619 !important;
+}
+
+.border-Tango-Glaucous-5{
+    border: 5px solid#F26619 !important;
+}
+
+.text-Tango-Glaucous{
+    color:#F26619 !important;
+}
+
+.form-Tango-Glaucous{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Tango-Glaucous:focus{
+    box-shadow: 0 0 5px#F26619 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#F26619 !important;
+}
+
+.spinner-Tango-Glaucous{
+    border-bottom-color:transparent !important ;
+    border-top-color:#F26619 !important;
+    border-right-color:#F26619 !important;
+    border-left-color:#F26619 !important;
+}
+
+/* color-1 ends */
+
+/* color-2 Turbo */
+.btn-Tango-Turbo{
+    background-color: #Fde306 !important;
+}
+
+.btn-Tango-Turbo:hover{
+    background-color: rgba(248, 234, 43, 0.945) !important;
+   
+}
+
+.bg-Tango-Turbo{
+    background-color: #Fde306 !important;
+}
+
+.border-Tango-Turbo-1{
+    border: 1px solid #Fde306 !important;
+}
+
+.border-Tango-Turbo-2{
+    border: 2px solid #Fde306 !important;
+}
+
+.border-Tango-Turbo-3{
+    border: 3px solid #Fde306 !important;
+}
+
+.border-Tango-Turbo-4{
+    border: 4px solid #Fde306 !important;
+}
+
+.border-Tango-Turbo-5{
+    border: 5px solid #Fde306 !important;
+}
+
+.text-Tango-Turbo{
+    color: #Fde306 !important;
+}
+
+.form-Tango-Turbo{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Tango-Turbo:focus{
+    box-shadow: 0 0 5px #Fde306 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Fde306 !important;
+}
+
+.spinner-Tango-Turbo{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Fde306 !important;
+    border-right-color: #Fde306 !important;
+    border-left-color: #Fde306 !important;
+}
+
+/* color-2 ends */
+
+/* color-3 HalfColonialWhite */
+
+.btn-Tango-HalfColonialWhite{
+    background-color: #Fdf6da !important;
+}
+
+.btn-Tango-HalfColonialWhite:hover{
+    background-color: #f4f7def1 !important;
+   
+}
+
+.bg-Tango-HalfColonialWhite{
+    background-color: #Fdf6da !important;
+}
+
+.border-Tango-HalfColonialWhite-1{
+    border: 1px solid #Fdf6da !important;
+}
+
+.border-Tango-HalfColonialWhite-2{
+    border: 2px solid #Fdf6da !important;
+}
+
+.border-Tango-HalfColonialWhite-3{
+    border: 3px solid #Fdf6da !important;
+}
+
+.border-Tango-HalfColonialWhite-4{
+    border: 4px solid #Fdf6da !important;
+}
+
+.border-Tango-HalfColonialWhite-5{
+    border: 5px solid #Fdf6da !important;
+}
+
+.text-Tango-HalfColonialWhite{
+    color: #Fdf6da !important;
+}
+
+.form-Tango-HalfColonialWhite{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Tango-HalfColonialWhite:focus{
+    box-shadow: 0 0 5px #Fdf6da !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Fdf6da !important;
+}
+
+.spinner-Tango-HalfColonialWhite{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Fdf6da !important;
+    border-right-color: #Fdf6da !important;
+    border-left-color: #Fdf6da !important;
+}
+
+/* color-3 ends */
+
+/* color-4 ShadowGreen */
+
+
+.btn-Tango-ShadowGreen{
+    background-color:#A4d0c1 !important;
+}
+
+.btn-Tango-ShadowGreen:hover{
+    background-color: rgb(134, 209, 197) !important;
+   
+}
+
+.bg-Tango-ShadowGreen{
+    background-color:#A4d0c1 !important;
+}
+
+.border-Tango-ShadowGreen-1{
+    border: 1px solid#A4d0c1 !important;
+}
+
+.border-Tango-ShadowGreen-2{
+    border: 2px solid#A4d0c1 !important;
+}
+
+.border-Tango-ShadowGreen-3{
+    border: 3px solid#A4d0c1 !important;
+}
+
+.border-Tango-ShadowGreen-4{
+    border: 4px solid#A4d0c1 !important;
+}
+
+.border-Tango-ShadowGreen-5{
+    border: 5px solid#A4d0c1 !important;
+}
+
+.text-Tango-ShadowGreen{
+    color:#A4d0c1 !important;
+}
+
+.form-Tango-ShadowGreen{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Tango-ShadowGreen:focus{
+    box-shadow: 0 0 5px#A4d0c1 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#A4d0c1 !important;
+}
+
+.spinner-Tango-ShadowGreen{
+    border-bottom-color:transparent !important ;
+    border-top-color:#A4d0c1 !important;
+    border-right-color:#A4d0c1 !important;
+    border-left-color:#A4d0c1 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 Downriver */
+
+
+.btn-Tango-Downriver{
+    background-color:#0c2450 !important;
+}
+
+.btn-Tango-Downriver:hover{
+    background-color: rgb(15, 69, 126) !important;
+   
+}
+
+.bg-Tango-Downriver{
+    background-color:#0c2450 !important;
+}
+
+.border-Tango-Downriver-1{
+    border: 1px solid#0c2450 !important;
+}
+
+.border-Tango-Downriver-2{
+    border: 2px solid#0c2450 !important;
+}
+
+.border-Tango-Downriver-3{
+    border: 3px solid#0c2450 !important;
+}
+
+.border-Tango-Downriver-4{
+    border: 4px solid#0c2450 !important;
+}
+
+.border-Tango-Downriver-5{
+    border: 5px solid#0c2450 !important;
+}
+
+.text-Tango-Downriver{
+    color:#0c2450 !important;
+}
+
+.form-Tango-Downriver{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Tango-Downriver:focus{
+    box-shadow: 0 0 5px#0c2450 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#0c2450 !important;
+}
+
+.spinner-Tango-Downriver{
+    border-bottom-color:transparent !important ;
+    border-top-color:#0c2450 !important;
+    border-right-color:#0c2450 !important;
+    border-left-color:#0c2450 !important;
+}
+
+/* color-5 ends */

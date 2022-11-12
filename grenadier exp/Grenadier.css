@@ -1,0 +1,310 @@
+/* color-1 Crimson */
+
+.btn-Grenadier-Crimson{
+    background-color: #Db3f04 !important;
+}
+
+.btn-Grenadier-Crimson:hover{
+    background-color: rgb(189, 61, 52) !important;
+   
+}
+
+.bg-Grenadier-Crimson{
+    background-color: #Db3f04 !important;
+}
+
+.border-Grenadier-Crimson-1{
+    border: 1px solid #Db3f04 !important;
+}
+
+.border-Grenadier-Crimson-2{
+    border: 2px solid #Db3f04 !important;
+}
+
+.border-Grenadier-Crimson-3{
+    border: 3px solid #Db3f04 !important;
+}
+
+.border-Grenadier-Crimson-4{
+    border: 4px solid #Db3f04 !important;
+}
+
+.border-Grenadier-Crimson-5{
+    border: 5px solid #Db3f04 !important;
+}
+
+.text-Grenadier-Crimson{
+    color: #Db3f04 !important;
+}
+
+.form-Grenadier-Crimson{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grenadier-Crimson:focus{
+    box-shadow: 0 0 5px #Db3f04 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Db3f04 !important;
+}
+
+.spinner-Grenadier-Crimson{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Db3f04 !important;
+    border-right-color: #Db3f04 !important;
+    border-left-color: #Db3f04 !important;
+}
+
+/* color-1 ends */
+
+/* color-2 ChileanFire */
+.btn-Grenadier-ChileanFire{
+    background-color: #F27405 !important;
+}
+
+.btn-Grenadier-ChileanFire:hover{
+    background-color: rgba(235, 115, 46, 0.945) !important;
+   
+}
+
+.bg-Grenadier-ChileanFire{
+    background-color: #F27405 !important;
+}
+
+.border-Grenadier-ChileanFire-1{
+    border: 1px solid #F27405 !important;
+}
+
+.border-Grenadier-ChileanFire-2{
+    border: 2px solid #F27405 !important;
+}
+
+.border-Grenadier-ChileanFire-3{
+    border: 3px solid #F27405 !important;
+}
+
+.border-Grenadier-ChileanFire-4{
+    border: 4px solid #F27405 !important;
+}
+
+.border-Grenadier-ChileanFire-5{
+    border: 5px solid #F27405 !important;
+}
+
+.text-Grenadier-ChileanFire{
+    color: #F27405 !important;
+}
+
+.form-Grenadier-ChileanFire{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grenadier-ChileanFire:focus{
+    box-shadow: 0 0 5px #F27405 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #F27405 !important;
+}
+
+.spinner-Grenadier-ChileanFire{
+    border-bottom-color:transparent !important ;
+    border-top-color: #F27405 !important;
+    border-right-color: #F27405 !important;
+    border-left-color: #F27405 !important;
+}
+
+/* color-2 ends */
+
+/* color-3 Yellow */
+
+.btn-Grenadier-Yellow{
+    background-color: #Fff800 !important;
+}
+
+.btn-Grenadier-Yellow:hover{
+    background-color: #eeeb25f1 !important;
+   
+}
+
+.bg-Grenadier-Yellow{
+    background-color: #Fff800 !important;
+}
+
+.border-Grenadier-Yellow-1{
+    border: 1px solid #Fff800 !important;
+}
+
+.border-Grenadier-Yellow-2{
+    border: 2px solid #Fff800 !important;
+}
+
+.border-Grenadier-Yellow-3{
+    border: 3px solid #Fff800 !important;
+}
+
+.border-Grenadier-Yellow-4{
+    border: 4px solid #Fff800 !important;
+}
+
+.border-Grenadier-Yellow-5{
+    border: 5px solid #Fff800 !important;
+}
+
+.text-Grenadier-Yellow{
+    color: #Fff800 !important;
+}
+
+.form-Grenadier-Yellow{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grenadier-Yellow:focus{
+    box-shadow: 0 0 5px #Fff800 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Fff800 !important;
+}
+
+.spinner-Grenadier-Yellow{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Fff800 !important;
+    border-right-color: #Fff800 !important;
+    border-left-color: #Fff800 !important;
+}
+
+/* color-3 ends */
+
+/* color-4 Atlantis */
+
+
+.btn-Grenadier-Atlantis{
+    background-color: #A4d836 !important;
+}
+
+.btn-Grenadier-Atlantis:hover{
+    background-color: rgb(133, 231, 68) !important;
+   
+}
+
+.bg-Grenadier-Atlantis{
+    background-color: #A4d836 !important;
+}
+
+.border-Grenadier-Atlantis-1{
+    border: 1px solid #A4d836 !important;
+}
+
+.border-Grenadier-Atlantis-2{
+    border: 2px solid #A4d836 !important;
+}
+
+.border-Grenadier-Atlantis-3{
+    border: 3px solid #A4d836 !important;
+}
+
+.border-Grenadier-Atlantis-4{
+    border: 4px solid #A4d836 !important;
+}
+
+.border-Grenadier-Atlantis-5{
+    border: 5px solid #A4d836 !important;
+}
+
+.text-Grenadier-Atlantis{
+    color: #A4d836 !important;
+}
+
+.form-Grenadier-Atlantis{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grenadier-Atlantis:focus{
+    box-shadow: 0 0 5px #A4d836 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #A4d836 !important;
+}
+
+.spinner-Grenadier-Atlantis{
+    border-bottom-color:transparent !important ;
+    border-top-color: #A4d836 !important;
+    border-right-color: #A4d836 !important;
+    border-left-color: #A4d836 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 outerspace */
+
+
+.btn-Grenadier-outerspace{
+    background-color:#2b3431 !important;
+}
+
+.btn-Grenadier-outerspace:hover{
+    background-color: rgb(40, 46, 41) !important;
+   
+}
+
+.bg-Grenadier-outerspace{
+    background-color:#2b3431 !important;
+}
+
+.border-Grenadier-outerspace-1{
+    border: 1px solid#2b3431 !important;
+}
+
+.border-Grenadier-outerspace-2{
+    border: 2px solid#2b3431 !important;
+}
+
+.border-Grenadier-outerspace-3{
+    border: 3px solid#2b3431 !important;
+}
+
+.border-Grenadier-outerspace-4{
+    border: 4px solid#2b3431 !important;
+}
+
+.border-Grenadier-outerspace-5{
+    border: 5px solid#2b3431 !important;
+}
+
+.text-Grenadier-outerspace{
+    color:#2b3431 !important;
+}
+
+.form-Grenadier-outerspace{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grenadier-outerspace:focus{
+    box-shadow: 0 0 5px#2b3431 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#2b3431 !important;
+}
+
+.spinner-Grenadier-outerspace{
+    border-bottom-color:transparent !important ;
+    border-top-color:#2b3431 !important;
+    border-right-color:#2b3431 !important;
+    border-left-color:#2b3431 !important;
+}
+
+/* color-5 ends */

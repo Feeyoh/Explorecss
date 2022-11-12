@@ -1,0 +1,309 @@
+/* color-1 parchment */
+
+.btn-flip-parchment{
+    background-color:#f0ead4!important;
+}
+
+.btn-flip-parchment:hover{
+    background-color: #d3ccb4!important;
+   
+}
+
+.bg-flip-parchment{
+    background-color:#f0ead4!important;
+}
+
+.border-flip-parchment-1{
+    border: 1px solid#f0ead4!important;
+}
+
+.border-flip-parchment-2{
+    border: 2px solid#f0ead4!important;
+}
+
+.border-flip-parchment-3{
+    border: 3px solid#f0ead4!important;
+}
+
+.border-flip-parchment-4{
+    border: 4px solid#f0ead4!important;
+}
+
+.border-flip-parchment-5{
+    border: 5px solid#f0ead4!important;
+}
+
+.text-flip-parchment{
+    color:#f0ead4!important;
+}
+
+.form-flip-parchment{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-flip-parchment:focus{
+    box-shadow: 0 0 5px#f0ead4!important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#f0ead4!important;
+}
+
+.spinner-flip-parchment{
+    border-bottom-color:transparent !important ;
+    border-top-color:#f0ead4!important;
+    border-right-color:#f0ead4!important;
+    border-left-color:#f0ead4!important;
+}
+
+/* color-1 ends */
+
+/* color-2 softamber */
+.btn-flip-softamber{
+    background-color: #d9d1ba!important;
+}
+
+.btn-flip-softamber:hover{
+    background-color: #d6c590!important;
+}
+
+.bg-flip-softamber{
+    background-color: #d9d1ba!important;
+}
+
+.border-flip-softamber-1{
+    border: 1px solid #d9d1ba!important;
+}
+
+.border-flip-softamber-2{
+    border: 2px solid #d9d1ba!important;
+}
+
+.border-flip-softamber-3{
+    border: 3px solid #d9d1ba!important;
+}
+
+.border-flip-softamber-4{
+    border: 4px solid #d9d1ba!important;
+}
+
+.border-flip-softamber-5{
+    border: 5px solid #d9d1ba!important;
+}
+
+.text-flip-softamber{
+    color: #d9d1ba!important;
+}
+
+.form-flip-softamber{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-flip-softamber:focus{
+    box-shadow: 0 0 5px #d9d1ba!important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #d9d1ba!important;
+}
+
+.spinner-flip-softamber{
+    border-bottom-color:transparent !important ;
+    border-top-color: #d9d1ba!important;
+    border-right-color: #d9d1ba!important;
+    border-left-color: #d9d1ba!important;
+}
+
+/* color-2 ends */
+
+/* color-3 regentgray */
+
+.btn-flip-regentgray{
+    background-color: #7e93a4!important;
+}
+
+.btn-flip-regentgray:hover{
+    background-color: #658baa!important;
+   
+}
+
+.bg-flip-regentgray{
+    background-color: #7e93a4!important;
+}
+
+.border-flip-regentgray-1{
+    border: 1px solid #7e93a4!important;
+}
+
+.border-flip-regentgray-2{
+    border: 2px solid #7e93a4!important;
+}
+
+.border-flip-regentgray-3{
+    border: 3px solid #7e93a4!important;
+}
+
+.border-flip-regentgray-4{
+    border: 4px solid #7e93a4!important;
+}
+
+.border-flip-regentgray-5{
+    border: 5px solid #7e93a4!important;
+}
+
+.text-flip-regentgray{
+    color: #7e93a4!important;
+}
+
+.form-flip-regentgray{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-flip-regentgray:focus{
+    box-shadow: 0 0 5px #7e93a4!important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #7e93a4!important;
+}
+
+.spinner-flip-regentgray{
+    border-bottom-color:transparent !important ;
+    border-top-color: #7e93a4!important;
+    border-right-color: #7e93a4!important;
+    border-left-color: #7e93a4!important;
+}
+
+/* color-3 ends */
+
+/* color-4 bluebayoux */
+
+
+.btn-flip-bluebayoux{
+    background-color: #4b6071 !important;
+}
+
+.btn-flip-bluebayoux:hover{
+    background-color: #5a656e!important;
+   
+}
+
+.bg-flip-bluebayoux{
+    background-color: #4b6071 !important;
+}
+
+.border-flip-bluebayoux-1{
+    border: 1px solid #4b6071 !important;
+}
+
+.border-flip-bluebayoux-2{
+    border: 2px solid #4b6071 !important;
+}
+
+.border-flip-bluebayoux-3{
+    border: 3px solid #4b6071 !important;
+}
+
+.border-flip-bluebayoux-4{
+    border: 4px solid #4b6071 !important;
+}
+
+.border-flip-bluebayoux-5{
+    border: 5px solid #4b6071 !important;
+}
+
+.text-flip-bluebayoux{
+    color: #4b6071 !important;
+}
+
+.form-flip-bluebayoux{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-flip-bluebayoux:focus{
+    box-shadow: 0 0 5px #4b6071 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #4b6071 !important;
+}
+
+.spinner-flip-bluebayoux{
+    border-bottom-color:transparent !important ;
+    border-top-color: #4b6071 !important;
+    border-right-color: #4b6071 !important;
+    border-left-color: #4b6071 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 gablegreen */
+
+
+.btn-flip-gablegreen{
+    background-color: #1b2e3c!important;
+}
+
+.btn-flip-gablegreen:hover{
+    background-color: #325772!important;
+   
+}
+
+.bg-flip-gablegreen{
+    background-color: #1b2e3c!important;
+}
+
+.border-flip-gablegreen-1{
+    border: 1px solid #1b2e3c!important;
+}
+
+.border-flip-gablegreen-2{
+    border: 2px solid #1b2e3c!important;
+}
+
+.border-flip-gablegreen-3{
+    border: 3px solid #1b2e3c!important;
+}
+
+.border-flip-gablegreen-4{
+    border: 4px solid #1b2e3c!important;
+}
+
+.border-flip-gablegreen-5{
+    border: 5px solid #1b2e3c!important;
+}
+
+.text-flip-gablegreen{
+    color: #1b2e3c!important;
+}
+
+.form-flip-gablegreen{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-flip-gablegreen:focus{
+    box-shadow: 0 0 5px #1b2e3c!important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #1b2e3c!important;
+}
+
+.spinner-flip-gablegreen{
+    border-bottom-color:transparent !important ;
+    border-top-color: #1b2e3c!important;
+    border-right-color: #1b2e3c!important;
+    border-left-color: #1b2e3c!important;
+}
+
+/* color-5 ends */

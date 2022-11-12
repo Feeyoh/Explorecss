@@ -1,0 +1,310 @@
+/* color-1 Tusk */
+
+.btn-Fuchsia-Tusk{
+    background-color:#E1f5c2 !important;
+}
+
+.btn-Fuchsia-Tusk:hover{
+    background-color: rgb(202, 247, 165) !important;
+   
+}
+
+.bg-Fuchsia-Tusk{
+    background-color:#E1f5c2 !important;
+}
+
+.border-Fuchsia-Tusk-1{
+    border: 1px solid#E1f5c2 !important;
+}
+
+.border-Fuchsia-Tusk-2{
+    border: 2px solid#E1f5c2 !important;
+}
+
+.border-Fuchsia-Tusk-3{
+    border: 3px solid#E1f5c2 !important;
+}
+
+.border-Fuchsia-Tusk-4{
+    border: 4px solid#E1f5c2 !important;
+}
+
+.border-Fuchsia-Tusk-5{
+    border: 5px solid#E1f5c2 !important;
+}
+
+.text-Fuchsia-Tusk{
+    color:#E1f5c2 !important;
+}
+
+.form-Fuchsia-Tusk{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Fuchsia-Tusk:focus{
+    box-shadow: 0 0 5px#E1f5c2 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#E1f5c2 !important;
+}
+
+.spinner-Fuchsia-Tusk{
+    border-bottom-color:transparent !important ;
+    border-top-color:#E1f5c2 !important;
+    border-right-color:#E1f5c2 !important;
+    border-left-color:#E1f5c2 !important;
+}
+
+/* color-1 ends */
+
+/* color-2 Manz */
+.btn-Fuchsia-Manz{
+    background-color:#Ebe575 !important;
+}
+
+.btn-Fuchsia-Manz:hover{
+    background-color: rgb(211, 209, 73) !important;
+   
+}
+
+.bg-Fuchsia-Manz{
+    background-color:#Ebe575 !important;
+}
+
+.border-Fuchsia-Manz-1{
+    border: 1px solid#Ebe575 !important;
+}
+
+.border-Fuchsia-Manz-2{
+    border: 2px solid#Ebe575 !important;
+}
+
+.border-Fuchsia-Manz-3{
+    border: 3px solid#Ebe575 !important;
+}
+
+.border-Fuchsia-Manz-4{
+    border: 4px solid#Ebe575 !important;
+}
+
+.border-Fuchsia-Manz-5{
+    border: 5px solid#Ebe575 !important;
+}
+
+.text-Fuchsia-Manz{
+    color:#Ebe575 !important;
+}
+
+.form-Fuchsia-Manz{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Fuchsia-Manz:focus{
+    box-shadow: 0 0 5px#Ebe575 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#Ebe575 !important;
+}
+
+.spinner-Fuchsia-Manz{
+    border-bottom-color:transparent !important ;
+    border-top-color:#Ebe575 !important;
+    border-right-color:#Ebe575 !important;
+    border-left-color:#Ebe575 !important;
+}
+
+/* color-2 ends */
+
+/* color-3 Candlelight */
+
+.btn-Fuchsia-Candlelight{
+    background-color: #Fad31f !important;
+}
+
+.btn-Fuchsia-Candlelight:hover{
+    background-color: #f3cf57 !important;
+   
+}
+
+.bg-Fuchsia-Candlelight{
+    background-color: #Fad31f !important;
+}
+
+.border-Fuchsia-Candlelight-1{
+    border: 1px solid #Fad31f !important;
+}
+
+.border-Fuchsia-Candlelight-2{
+    border: 2px solid #Fad31f !important;
+}
+
+.border-Fuchsia-Candlelight-3{
+    border: 3px solid #Fad31f !important;
+}
+
+.border-Fuchsia-Candlelight-4{
+    border: 4px solid #Fad31f !important;
+}
+
+.border-Fuchsia-Candlelight-5{
+    border: 5px solid #Fad31f !important;
+}
+
+.text-Fuchsia-Candlelight{
+    color: #Fad31f !important;
+}
+
+.form-Fuchsia-Candlelight{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Fuchsia-Candlelight:focus{
+    box-shadow: 0 0 5px #Fad31f !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Fad31f !important;
+}
+
+.spinner-Fuchsia-Candlelight{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Fad31f !important;
+    border-right-color: #Fad31f !important;
+    border-left-color: #Fad31f !important;
+}
+
+/* color-3 ends */
+
+/* color-4 NeonCarrot */
+
+
+.btn-Fuchsia-NeonCarrot{
+    background-color:#Fb913d !important;
+}
+
+.btn-Fuchsia-NeonCarrot:hover{
+    background-color: rgb(245, 172, 105) !important;
+   
+}
+
+.bg-Fuchsia-NeonCarrot{
+    background-color:#Fb913d !important;
+}
+
+.border-Fuchsia-NeonCarrot-1{
+    border: 1px solid#Fb913d !important;
+}
+
+.border-Fuchsia-NeonCarrot-2{
+    border: 2px solid#Fb913d !important;
+}
+
+.border-Fuchsia-NeonCarrot-3{
+    border: 3px solid#Fb913d !important;
+}
+
+.border-Fuchsia-NeonCarrot-4{
+    border: 4px solid#Fb913d !important;
+}
+
+.border-Fuchsia-NeonCarrot-5{
+    border: 5px solid#Fb913d !important;
+}
+
+.text-Fuchsia-NeonCarrot{
+    color:#Fb913d !important;
+}
+
+.form-Fuchsia-NeonCarrot{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Fuchsia-NeonCarrot:focus{
+    box-shadow: 0 0 5px#Fb913d !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#Fb913d !important;
+}
+
+.spinner-Fuchsia-NeonCarrot{
+    border-bottom-color:transparent !important ;
+    border-top-color:#Fb913d !important;
+    border-right-color:#Fb913d !important;
+    border-left-color:#Fb913d !important;
+}
+
+/* color-4 ends */
+
+/* color-5 SunsetOrange */
+
+
+.btn-Fuchsia-SunsetOrange{
+    background-color:#Fe504f !important;
+}
+
+.btn-Fuchsia-SunsetOrange:hover{
+    background-color: rgb(253, 112, 112) !important;
+   
+}
+
+.bg-Fuchsia-SunsetOrange{
+    background-color:#Fe504f !important;
+}
+
+.border-Fuchsia-SunsetOrange-1{
+    border: 1px solid#Fe504f !important;
+}
+
+.border-Fuchsia-SunsetOrange-2{
+    border: 2px solid#Fe504f !important;
+}
+
+.border-Fuchsia-SunsetOrange-3{
+    border: 3px solid#Fe504f !important;
+}
+
+.border-Fuchsia-SunsetOrange-4{
+    border: 4px solid#Fe504f !important;
+}
+
+.border-Fuchsia-SunsetOrange-5{
+    border: 5px solid#Fe504f !important;
+}
+
+.text-Fuchsia-SunsetOrange{
+    color:#Fe504f !important;
+}
+
+.form-Fuchsia-SunsetOrange{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Fuchsia-SunsetOrange:focus{
+    box-shadow: 0 0 5px#Fe504f !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#Fe504f !important;
+}
+
+.spinner-Fuchsia-SunsetOrange{
+    border-bottom-color:transparent !important ;
+    border-top-color:#Fe504f !important;
+    border-right-color:#Fe504f !important;
+    border-left-color:#Fe504f !important;
+}
+
+/* color-5 ends */

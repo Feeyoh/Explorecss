@@ -1,0 +1,310 @@
+/* color-1 OuterSpace */
+
+.btn-Grainsbro-OuterSpace{
+    background-color:#283c3b !important;
+}
+
+.btn-Grainsbro-OuterSpace:hover{
+    background-color: rgb(76, 114, 117) !important;
+   
+}
+
+.bg-Grainsbro-OuterSpace{
+    background-color:#283c3b !important;
+}
+
+.border-Grainsbro-OuterSpace-1{
+    border: 1px solid#283c3b !important;
+}
+
+.border-Grainsbro-OuterSpace-2{
+    border: 2px solid#283c3b !important;
+}
+
+.border-Grainsbro-OuterSpace-3{
+    border: 3px solid#283c3b !important;
+}
+
+.border-Grainsbro-OuterSpace-4{
+    border: 4px solid#283c3b !important;
+}
+
+.border-Grainsbro-OuterSpace-5{
+    border: 5px solid#283c3b !important;
+}
+
+.text-Grainsbro-OuterSpace{
+    color:#283c3b !important;
+}
+
+.form-Grainsbro-OuterSpace{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grainsbro-OuterSpace:focus{
+    box-shadow: 0 0 5px#283c3b !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#283c3b !important;
+}
+
+.spinner-Grainsbro-OuterSpace{
+    border-bottom-color:transparent !important ;
+    border-top-color:#283c3b !important;
+    border-right-color:#283c3b !important;
+    border-left-color:#283c3b !important;
+}
+
+/* color-1 ends */
+
+/* color-2 Elm */
+.btn-Grainsbro-Elm{
+    background-color:#1a7379 !important;
+}
+
+.btn-Grainsbro-Elm:hover{
+    background-color: rgb(29, 138, 182) !important;
+   
+}
+
+.bg-Grainsbro-Elm{
+    background-color:#1a7379 !important;
+}
+
+.border-Grainsbro-Elm-1{
+    border: 1px solid#1a7379 !important;
+}
+
+.border-Grainsbro-Elm-2{
+    border: 2px solid#1a7379 !important;
+}
+
+.border-Grainsbro-Elm-3{
+    border: 3px solid#1a7379 !important;
+}
+
+.border-Grainsbro-Elm-4{
+    border: 4px solid#1a7379 !important;
+}
+
+.border-Grainsbro-Elm-5{
+    border: 5px solid#1a7379 !important;
+}
+
+.text-Grainsbro-Elm{
+    color:#1a7379 !important;
+}
+
+.form-Grainsbro-Elm{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grainsbro-Elm:focus{
+    box-shadow: 0 0 5px#1a7379 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#1a7379 !important;
+}
+
+.spinner-Grainsbro-Elm{
+    border-bottom-color:transparent !important ;
+    border-top-color:#1a7379 !important;
+    border-right-color:#1a7379 !important;
+    border-left-color:#1a7379 !important;
+}
+
+/* color-2 ends */
+
+/* color-3 Bizarre */
+
+.btn-Grainsbro-Bizarre{
+    background-color: #Eadcd3 !important;
+}
+
+.btn-Grainsbro-Bizarre:hover{
+    background-color: #f0d7b6 !important;
+   
+}
+
+.bg-Grainsbro-Bizarre{
+    background-color: #Eadcd3 !important;
+}
+
+.border-Grainsbro-Bizarre-1{
+    border: 1px solid #Eadcd3 !important;
+}
+
+.border-Grainsbro-Bizarre-2{
+    border: 2px solid #Eadcd3 !important;
+}
+
+.border-Grainsbro-Bizarre-3{
+    border: 3px solid #Eadcd3 !important;
+}
+
+.border-Grainsbro-Bizarre-4{
+    border: 4px solid #Eadcd3 !important;
+}
+
+.border-Grainsbro-Bizarre-5{
+    border: 5px solid #Eadcd3 !important;
+}
+
+.text-Grainsbro-Bizarre{
+    color: #Eadcd3 !important;
+}
+
+.form-Grainsbro-Bizarre{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grainsbro-Bizarre:focus{
+    box-shadow: 0 0 5px #Eadcd3 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Eadcd3 !important;
+}
+
+.spinner-Grainsbro-Bizarre{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Eadcd3 !important;
+    border-right-color: #Eadcd3 !important;
+    border-left-color: #Eadcd3 !important;
+}
+
+/* color-3 ends */
+
+/* color-4 Mojo */
+
+
+.btn-Grainsbro-Mojo{
+    background-color:#C44637 !important;
+}
+
+.btn-Grainsbro-Mojo:hover{
+    background-color: rgb(238, 104, 80) !important;
+   
+}
+
+.bg-Grainsbro-Mojo{
+    background-color:#C44637 !important;
+}
+
+.border-Grainsbro-Mojo-1{
+    border: 1px solid#C44637 !important;
+}
+
+.border-Grainsbro-Mojo-2{
+    border: 2px solid#C44637 !important;
+}
+
+.border-Grainsbro-Mojo-3{
+    border: 3px solid#C44637 !important;
+}
+
+.border-Grainsbro-Mojo-4{
+    border: 4px solid#C44637 !important;
+}
+
+.border-Grainsbro-Mojo-5{
+    border: 5px solid#C44637 !important;
+}
+
+.text-Grainsbro-Mojo{
+    color:#C44637 !important;
+}
+
+.form-Grainsbro-Mojo{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grainsbro-Mojo:focus{
+    box-shadow: 0 0 5px#C44637 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#C44637 !important;
+}
+
+.spinner-Grainsbro-Mojo{
+    border-bottom-color:transparent !important ;
+    border-top-color:#C44637 !important;
+    border-right-color:#C44637 !important;
+    border-left-color:#C44637 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 MetallicCopper */
+
+
+.btn-Grainsbro-MetallicCopper{
+    background-color:#772d24 !important;
+}
+
+.btn-Grainsbro-MetallicCopper:hover{
+    background-color: rgb(158, 82, 65) !important;
+   
+}
+
+.bg-Grainsbro-MetallicCopper{
+    background-color:#772d24 !important;
+}
+
+.border-Grainsbro-MetallicCopper-1{
+    border: 1px solid#772d24 !important;
+}
+
+.border-Grainsbro-MetallicCopper-2{
+    border: 2px solid#772d24 !important;
+}
+
+.border-Grainsbro-MetallicCopper-3{
+    border: 3px solid#772d24 !important;
+}
+
+.border-Grainsbro-MetallicCopper-4{
+    border: 4px solid#772d24 !important;
+}
+
+.border-Grainsbro-MetallicCopper-5{
+    border: 5px solid#772d24 !important;
+}
+
+.text-Grainsbro-MetallicCopper{
+    color:#772d24 !important;
+}
+
+.form-Grainsbro-MetallicCopper{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Grainsbro-MetallicCopper:focus{
+    box-shadow: 0 0 5px#772d24 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#772d24 !important;
+}
+
+.spinner-Grainsbro-MetallicCopper{
+    border-bottom-color:transparent !important ;
+    border-top-color:#772d24 !important;
+    border-right-color:#772d24 !important;
+    border-left-color:#772d24 !important;
+}
+
+/* color-5 ends */

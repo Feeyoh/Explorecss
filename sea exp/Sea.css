@@ -1,0 +1,310 @@
+/* color-1 Milan */
+
+.btn-Sea-Milan{
+    background-color:#Ffffa5 !important;
+}
+
+.btn-Sea-Milan:hover{
+    background-color: rgb(253, 229, 92) !important;
+   
+}
+
+.bg-Sea-Milan{
+    background-color:#Ffffa5 !important;
+}
+
+.border-Sea-Milan-1{
+    border: 1px solid#Ffffa5 !important;
+}
+
+.border-Sea-Milan-2{
+    border: 2px solid#Ffffa5 !important;
+}
+
+.border-Sea-Milan-3{
+    border: 3px solid#Ffffa5 !important;
+}
+
+.border-Sea-Milan-4{
+    border: 4px solid#Ffffa5 !important;
+}
+
+.border-Sea-Milan-5{
+    border: 5px solid#Ffffa5 !important;
+}
+
+.text-Sea-Milan{
+    color:#Ffffa5 !important;
+}
+
+.form-Sea-Milan{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Sea-Milan:focus{
+    box-shadow: 0 0 5px#Ffffa5 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#Ffffa5 !important;
+}
+
+.spinner-Sea-Milan{
+    border-bottom-color:transparent !important ;
+    border-top-color:#Ffffa5 !important;
+    border-right-color:#Ffffa5 !important;
+    border-left-color:#Ffffa5 !important;
+}
+
+/* color-1 ends */
+
+/* color-2 Sulu */
+.btn-Sea-Sulu{
+    background-color: #Bdf172 !important;
+}
+
+.btn-Sea-Sulu:hover{
+    background-color: rgba(179, 241, 62, 0.945) !important;
+   
+}
+
+.bg-Sea-Sulu{
+    background-color: #Bdf172 !important;
+}
+
+.border-Sea-Sulu-1{
+    border: 1px solid #Bdf172 !important;
+}
+
+.border-Sea-Sulu-2{
+    border: 2px solid #Bdf172 !important;
+}
+
+.border-Sea-Sulu-3{
+    border: 3px solid #Bdf172 !important;
+}
+
+.border-Sea-Sulu-4{
+    border: 4px solid #Bdf172 !important;
+}
+
+.border-Sea-Sulu-5{
+    border: 5px solid #Bdf172 !important;
+}
+
+.text-Sea-Sulu{
+    color: #Bdf172 !important;
+}
+
+.form-Sea-Sulu{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Sea-Sulu:focus{
+    box-shadow: 0 0 5px #Bdf172 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Bdf172 !important;
+}
+
+.spinner-Sea-Sulu{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Bdf172 !important;
+    border-right-color: #Bdf172 !important;
+    border-left-color: #Bdf172 !important;
+}
+
+/* color-2 ends */
+
+/* color-3 Turquoise */
+
+.btn-Sea-Turquoise{
+    background-color: #29d9c2 !important;
+}
+
+.btn-Sea-Turquoise:hover{
+    background-color: #47f5ecf1 !important;
+   
+}
+
+.bg-Sea-Turquoise{
+    background-color: #29d9c2 !important;
+}
+
+.border-Sea-Turquoise-1{
+    border: 1px solid #29d9c2 !important;
+}
+
+.border-Sea-Turquoise-2{
+    border: 2px solid #29d9c2 !important;
+}
+
+.border-Sea-Turquoise-3{
+    border: 3px solid #29d9c2 !important;
+}
+
+.border-Sea-Turquoise-4{
+    border: 4px solid #29d9c2 !important;
+}
+
+.border-Sea-Turquoise-5{
+    border: 5px solid #29d9c2 !important;
+}
+
+.text-Sea-Turquoise{
+    color: #29d9c2 !important;
+}
+
+.form-Sea-Turquoise{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Sea-Turquoise:focus{
+    box-shadow: 0 0 5px #29d9c2 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #29d9c2 !important;
+}
+
+.spinner-Sea-Turquoise{
+    border-bottom-color:transparent !important ;
+    border-top-color: #29d9c2 !important;
+    border-right-color: #29d9c2 !important;
+    border-left-color: #29d9c2 !important;
+}
+
+/* color-3 ends */
+
+/* color-4 PersianGreen */
+
+
+.btn-Sea-PersianGreen{
+    background-color:#00a3a5 !important;
+}
+
+.btn-Sea-PersianGreen:hover{
+    background-color: rgb(47, 170, 179) !important;
+   
+}
+
+.bg-Sea-PersianGreen{
+    background-color:#00a3a5 !important;
+}
+
+.border-Sea-PersianGreen-1{
+    border: 1px solid#00a3a5 !important;
+}
+
+.border-Sea-PersianGreen-2{
+    border: 2px solid#00a3a5 !important;
+}
+
+.border-Sea-PersianGreen-3{
+    border: 3px solid#00a3a5 !important;
+}
+
+.border-Sea-PersianGreen-4{
+    border: 4px solid#00a3a5 !important;
+}
+
+.border-Sea-PersianGreen-5{
+    border: 5px solid#00a3a5 !important;
+}
+
+.text-Sea-PersianGreen{
+    color:#00a3a5 !important;
+}
+
+.form-Sea-PersianGreen{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Sea-PersianGreen:focus{
+    box-shadow: 0 0 5px#00a3a5 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#00a3a5 !important;
+}
+
+.spinner-Sea-PersianGreen{
+    border-bottom-color:transparent !important ;
+    border-top-color:#00a3a5 !important;
+    border-right-color:#00a3a5 !important;
+    border-left-color:#00a3a5 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 Baltic */
+
+
+.btn-Sea-Baltic{
+    background-color:#2f2934 !important;
+}
+
+.btn-Sea-Baltic:hover{
+    background-color: rgb(32, 26, 43) !important;
+   
+}
+
+.bg-Sea-Baltic{
+    background-color:#2f2934 !important;
+}
+
+.border-Sea-Baltic-1{
+    border: 1px solid#2f2934 !important;
+}
+
+.border-Sea-Baltic-2{
+    border: 2px solid#2f2934 !important;
+}
+
+.border-Sea-Baltic-3{
+    border: 3px solid#2f2934 !important;
+}
+
+.border-Sea-Baltic-4{
+    border: 4px solid#2f2934 !important;
+}
+
+.border-Sea-Baltic-5{
+    border: 5px solid#2f2934 !important;
+}
+
+.text-Sea-Baltic{
+    color:#2f2934 !important;
+}
+
+.form-Sea-Baltic{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Sea-Baltic:focus{
+    box-shadow: 0 0 5px#2f2934 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#2f2934 !important;
+}
+
+.spinner-Sea-Baltic{
+    border-bottom-color:transparent !important ;
+    border-top-color:#2f2934 !important;
+    border-right-color:#2f2934 !important;
+    border-left-color:#2f2934 !important;
+}
+
+/* color-5 ends */

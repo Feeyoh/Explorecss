@@ -1,0 +1,310 @@
+/* color-1 BlueDianne */
+
+.btn-Peru-BlueDianne{
+    background-color:#243a4f !important;
+}
+
+.btn-Peru-BlueDianne:hover{
+    background-color: rgb(4, 69, 88) !important;
+   
+}
+
+.bg-Peru-BlueDianne{
+    background-color:#243a4f !important;
+}
+
+.border-Peru-BlueDianne-1{
+    border: 1px solid#243a4f !important;
+}
+
+.border-Peru-BlueDianne-2{
+    border: 2px solid#243a4f !important;
+}
+
+.border-Peru-BlueDianne-3{
+    border: 3px solid#243a4f !important;
+}
+
+.border-Peru-BlueDianne-4{
+    border: 4px solid#243a4f !important;
+}
+
+.border-Peru-BlueDianne-5{
+    border: 5px solid#243a4f !important;
+}
+
+.text-Peru-BlueDianne{
+    color:#243a4f !important;
+}
+
+.form-Peru-BlueDianne{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Peru-BlueDianne:focus{
+    box-shadow: 0 0 5px#243a4f !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#243a4f !important;
+}
+
+.spinner-Peru-BlueDianne{
+    border-bottom-color:transparent !important ;
+    border-top-color:#243a4f !important;
+    border-right-color:#243a4f !important;
+    border-left-color:#243a4f !important;
+}
+
+/* color-1 ends */
+
+/* color-2 Crusta */
+.btn-Peru-Crusta{
+    background-color:#Ff7c2c !important;
+}
+
+.btn-Peru-Crusta:hover{
+    background-color: rgb(240, 148, 95) !important;
+   
+}
+
+.bg-Peru-Crusta{
+    background-color:#Ff7c2c !important;
+}
+
+.border-Peru-Crusta-1{
+    border: 1px solid#Ff7c2c !important;
+}
+
+.border-Peru-Crusta-2{
+    border: 2px solid#Ff7c2c !important;
+}
+
+.border-Peru-Crusta-3{
+    border: 3px solid#Ff7c2c !important;
+}
+
+.border-Peru-Crusta-4{
+    border: 4px solid#Ff7c2c !important;
+}
+
+.border-Peru-Crusta-5{
+    border: 5px solid#Ff7c2c !important;
+}
+
+.text-Peru-Crusta{
+    color:#Ff7c2c !important;
+}
+
+.form-Peru-Crusta{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Peru-Crusta:focus{
+    box-shadow: 0 0 5px#Ff7c2c !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#Ff7c2c !important;
+}
+
+.spinner-Peru-Crusta{
+    border-bottom-color:transparent !important ;
+    border-top-color:#Ff7c2c !important;
+    border-right-color:#Ff7c2c !important;
+    border-left-color:#Ff7c2c !important;
+}
+
+/* color-2 ends */
+
+/* color-3 SaffronMango */
+
+.btn-Peru-SaffronMango{
+    background-color: #Fac748 !important;
+}
+
+.btn-Peru-SaffronMango:hover{
+    background-color: #fae847 !important;
+   
+}
+
+.bg-Peru-SaffronMango{
+    background-color: #Fac748 !important;
+}
+
+.border-Peru-SaffronMango-1{
+    border: 1px solid #Fac748 !important;
+}
+
+.border-Peru-SaffronMango-2{
+    border: 2px solid #Fac748 !important;
+}
+
+.border-Peru-SaffronMango-3{
+    border: 3px solid #Fac748 !important;
+}
+
+.border-Peru-SaffronMango-4{
+    border: 4px solid #Fac748 !important;
+}
+
+.border-Peru-SaffronMango-5{
+    border: 5px solid #Fac748 !important;
+}
+
+.text-Peru-SaffronMango{
+    color: #Fac748 !important;
+}
+
+.form-Peru-SaffronMango{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Peru-SaffronMango:focus{
+    box-shadow: 0 0 5px #Fac748 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #Fac748 !important;
+}
+
+.spinner-Peru-SaffronMango{
+    border-bottom-color:transparent !important ;
+    border-top-color: #Fac748 !important;
+    border-right-color: #Fac748 !important;
+    border-left-color: #Fac748 !important;
+}
+
+/* color-3 ends */
+
+/* color-4 Olivin */
+
+
+.btn-Peru-Olivin{
+    background-color:#A1c583 !important;
+}
+
+.btn-Peru-Olivin:hover{
+    background-color: rgb(148, 236, 113) !important;
+   
+}
+
+.bg-Peru-Olivin{
+    background-color:#A1c583 !important;
+}
+
+.border-Peru-Olivin-1{
+    border: 1px solid#A1c583 !important;
+}
+
+.border-Peru-Olivin-2{
+    border: 2px solid#A1c583 !important;
+}
+
+.border-Peru-Olivin-3{
+    border: 3px solid#A1c583 !important;
+}
+
+.border-Peru-Olivin-4{
+    border: 4px solid#A1c583 !important;
+}
+
+.border-Peru-Olivin-5{
+    border: 5px solid#A1c583 !important;
+}
+
+.text-Peru-Olivin{
+    color:#A1c583 !important;
+}
+
+.form-Peru-Olivin{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Peru-Olivin:focus{
+    box-shadow: 0 0 5px#A1c583 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#A1c583 !important;
+}
+
+.spinner-Peru-Olivin{
+    border-bottom-color:transparent !important ;
+    border-top-color:#A1c583 !important;
+    border-right-color:#A1c583 !important;
+    border-left-color:#A1c583 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 Patina */
+
+
+.btn-Peru-Patina{
+    background-color:#5e9b8c !important;
+}
+
+.btn-Peru-Patina:hover{
+    background-color: rgb(109, 202, 171) !important;
+   
+}
+
+.bg-Peru-Patina{
+    background-color:#5e9b8c !important;
+}
+
+.border-Peru-Patina-1{
+    border: 1px solid#5e9b8c !important;
+}
+
+.border-Peru-Patina-2{
+    border: 2px solid#5e9b8c !important;
+}
+
+.border-Peru-Patina-3{
+    border: 3px solid#5e9b8c !important;
+}
+
+.border-Peru-Patina-4{
+    border: 4px solid#5e9b8c !important;
+}
+
+.border-Peru-Patina-5{
+    border: 5px solid#5e9b8c !important;
+}
+
+.text-Peru-Patina{
+    color:#5e9b8c !important;
+}
+
+.form-Peru-Patina{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Peru-Patina:focus{
+    box-shadow: 0 0 5px#5e9b8c !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#5e9b8c !important;
+}
+
+.spinner-Peru-Patina{
+    border-bottom-color:transparent !important ;
+    border-top-color:#5e9b8c !important;
+    border-right-color:#5e9b8c !important;
+    border-left-color:#5e9b8c !important;
+}
+
+/* color-5 ends */

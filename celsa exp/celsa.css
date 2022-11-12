@@ -1,0 +1,310 @@
+/* color-1 concrete */
+
+.btn-celsa-concrete{
+    background-color: #f2f2f2 !important;
+}
+
+.btn-celsa-concrete:hover{
+    background-color: #dbdbdb !important;
+   
+}
+
+.bg-celsa-concrete{
+    background-color: #f2f2f2 !important;
+}
+
+.border-celsa-concrete-1{
+    border: 1px solid #f2f2f2 !important;
+}
+
+.border-celsa-concrete-2{
+    border: 2px solid #f2f2f2 !important;
+}
+
+.border-celsa-concrete-3{
+    border: 3px solid #f2f2f2 !important;
+}
+
+.border-celsa-concrete-4{
+    border: 4px solid #f2f2f2 !important;
+}
+
+.border-celsa-concrete-5{
+    border: 5px solid #f2f2f2 !important;
+}
+
+.text-celsa-concrete{
+    color: #f2f2f2 !important;
+}
+
+.form-celsa-concrete{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-celsa-concrete:focus{
+    box-shadow: 0 0 5px #f2f2f2 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #f2f2f2 !important;
+}
+
+.spinner-celsa-concrete{
+    border-bottom-color:transparent !important ;
+    border-top-color: #f2f2f2 !important;
+    border-right-color: #f2f2f2 !important;
+    border-left-color: #f2f2f2 !important;
+}
+
+/* color-1 ends */
+
+/* color-2 crail */
+.btn-celsa-crail{
+    background-color: #bd573f !important;
+}
+
+.btn-celsa-crail:hover{
+    background-color: #be6450 !important;
+   
+}
+
+.bg-celsa-crail{
+    background-color: #bd573f !important;
+}
+
+.border-celsa-crail-1{
+    border: 1px solid #bd573f !important;
+}
+
+.border-celsa-crail-2{
+    border: 2px solid #bd573f !important;
+}
+
+.border-celsa-crail-3{
+    border: 3px solid #bd573f !important;
+}
+
+.border-celsa-crail-4{
+    border: 4px solid #bd573f !important;
+}
+
+.border-celsa-crail-5{
+    border: 5px solid #bd573f !important;
+}
+
+.text-celsa-crail{
+    color: #bd573f !important;
+}
+
+.form-celsa-crail{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-celsa-crail:focus{
+    box-shadow: 0 0 5px #bd573f !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #bd573f !important;
+}
+
+.spinner-celsa-crail{
+    border-bottom-color:transparent !important ;
+    border-top-color: #bd573f !important;
+    border-right-color: #bd573f !important;
+    border-left-color: #bd573f !important;
+}
+
+/* color-2 ends */
+
+/* color-3 swampgreen */
+
+.btn-celsa-swampgreen{
+    background-color: #97b386 !important;
+}
+
+.btn-celsa-swampgreen:hover{
+    background-color: #86a772 !important;
+   
+}
+
+.bg-celsa-swampgreen{
+    background-color: #97b386 !important;
+}
+
+.border-celsa-swampgreen-1{
+    border: 1px solid #97b386 !important;
+}
+
+.border-celsa-swampgreen-2{
+    border: 2px solid #97b386 !important;
+}
+
+.border-celsa-swampgreen-3{
+    border: 3px solid #97b386 !important;
+}
+
+.border-celsa-swampgreen-4{
+    border: 4px solid #97b386 !important;
+}
+
+.border-celsa-swampgreen-5{
+    border: 5px solid #97b386 !important;
+}
+
+.text-celsa-swampgreen{
+    color: #97b386 !important;
+}
+
+.form-celsa-swampgreen{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-celsa-swampgreen:focus{
+    box-shadow: 0 0 5px #97b386 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #97b386 !important;
+}
+
+.spinner-celsa-swampgreen{
+    border-bottom-color:transparent !important ;
+    border-top-color: #97b386 !important;
+    border-right-color: #97b386 !important;
+    border-left-color: #97b386 !important;
+}
+
+/* color-3 ends */
+
+/* color-4 barleycorn */
+
+
+.btn-celsa-barleycorn{
+    background-color: #a89b60 !important;
+}
+
+.btn-celsa-barleycorn:hover{
+    background-color: #b1a980 !important;
+   
+}
+
+.bg-celsa-barleycorn{
+    background-color: #a89b60 !important;
+}
+
+.border-celsa-barleycorn-1{
+    border: 1px solid #a89b60 !important;
+}
+
+.border-celsa-barleycorn-2{
+    border: 2px solid #a89b60 !important;
+}
+
+.border-celsa-barleycorn-3{
+    border: 3px solid #a89b60 !important;
+}
+
+.border-celsa-barleycorn-4{
+    border: 4px solid #a89b60 !important;
+}
+
+.border-celsa-barleycorn-5{
+    border: 5px solid #a89b60 !important;
+}
+
+.text-celsa-barleycorn{
+    color: #a89b60 !important;
+}
+
+.form-celsa-barleycorn{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-celsa-barleycorn:focus{
+    box-shadow: 0 0 5px #a89b60 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #a89b60 !important;
+}
+
+.spinner-celsa-barleycorn{
+    border-bottom-color:transparent !important ;
+    border-top-color: #a89b60 !important;
+    border-right-color: #a89b60 !important;
+    border-left-color: #a89b60 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 thunder */
+
+
+.btn-celsa-thunder{
+    background-color: #252025 !important;
+}
+
+.btn-celsa-thunder:hover{
+    background-color: #362f36 !important;
+   
+}
+
+.bg-celsa-thunder{
+    background-color: #252025 !important;
+}
+
+.border-celsa-thunder-1{
+    border: 1px solid #252025 !important;
+}
+
+.border-celsa-thunder-2{
+    border: 2px solid #252025 !important;
+}
+
+.border-celsa-thunder-3{
+    border: 3px solid #252025 !important;
+}
+
+.border-celsa-thunder-4{
+    border: 4px solid #252025 !important;
+}
+
+.border-celsa-thunder-5{
+    border: 5px solid #252025 !important;
+}
+
+.text-celsa-thunder{
+    color: #252025 !important;
+}
+
+.form-celsa-thunder{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-celsa-thunder:focus{
+    box-shadow: 0 0 5px #252025 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #252025 !important;
+}
+
+.spinner-celsa-thunder{
+    border-bottom-color:transparent !important ;
+    border-top-color: #252025 !important;
+    border-right-color: #252025 !important;
+    border-left-color: #252025 !important;
+}
+
+/* color-5 ends */

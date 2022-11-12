@@ -1,0 +1,310 @@
+/* color-1 Sidecar */
+
+.btn-Zombie-Sidecar{
+    background-color:#F3dfbc !important;
+}
+
+.btn-Zombie-Sidecar:hover{
+    background-color: rgb(238, 216, 145) !important;
+   
+}
+
+.bg-Zombie-Sidecar{
+    background-color:#F3dfbc !important;
+}
+
+.border-Zombie-Sidecar-1{
+    border: 1px solid#F3dfbc !important;
+}
+
+.border-Zombie-Sidecar-2{
+    border: 2px solid#F3dfbc !important;
+}
+
+.border-Zombie-Sidecar-3{
+    border: 3px solid#F3dfbc !important;
+}
+
+.border-Zombie-Sidecar-4{
+    border: 4px solid#F3dfbc !important;
+}
+
+.border-Zombie-Sidecar-5{
+    border: 5px solid#F3dfbc !important;
+}
+
+.text-Zombie-Sidecar{
+    color:#F3dfbc !important;
+}
+
+.form-Zombie-Sidecar{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Zombie-Sidecar:focus{
+    box-shadow: 0 0 5px#F3dfbc !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#F3dfbc !important;
+}
+
+.spinner-Zombie-Sidecar{
+    border-bottom-color:transparent !important ;
+    border-top-color:#F3dfbc !important;
+    border-right-color:#F3dfbc !important;
+    border-left-color:#F3dfbc !important;
+}
+
+/* color-1 ends */
+
+/* color-2 CeriseRed */
+.btn-Zombie-CeriseRed{
+    background-color: #D92b4c !important;
+}
+
+.btn-Zombie-CeriseRed:hover{
+    background-color: rgba(202, 59, 83, 0.945) !important;
+   
+}
+
+.bg-Zombie-CeriseRed{
+    background-color: #D92b4c !important;
+}
+
+.border-Zombie-CeriseRed-1{
+    border: 1px solid #D92b4c !important;
+}
+
+.border-Zombie-CeriseRed-2{
+    border: 2px solid #D92b4c !important;
+}
+
+.border-Zombie-CeriseRed-3{
+    border: 3px solid #D92b4c !important;
+}
+
+.border-Zombie-CeriseRed-4{
+    border: 4px solid #D92b4c !important;
+}
+
+.border-Zombie-CeriseRed-5{
+    border: 5px solid #D92b4c !important;
+}
+
+.text-Zombie-CeriseRed{
+    color: #D92b4c !important;
+}
+
+.form-Zombie-CeriseRed{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Zombie-CeriseRed:focus{
+    box-shadow: 0 0 5px #D92b4c !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #D92b4c !important;
+}
+
+.spinner-Zombie-CeriseRed{
+    border-bottom-color:transparent !important ;
+    border-top-color: #D92b4c !important;
+    border-right-color: #D92b4c !important;
+    border-left-color: #D92b4c !important;
+}
+
+/* color-2 ends */
+
+/* color-3 BlueCharcoal */
+
+.btn-Zombie-BlueCharcoal{
+    background-color: #020e1e !important;
+}
+
+.btn-Zombie-BlueCharcoal:hover{
+    background-color: #0e033ff1 !important;
+   
+}
+
+.bg-Zombie-BlueCharcoal{
+    background-color: #020e1e !important;
+}
+
+.border-Zombie-BlueCharcoal-1{
+    border: 1px solid #020e1e !important;
+}
+
+.border-Zombie-BlueCharcoal-2{
+    border: 2px solid #020e1e !important;
+}
+
+.border-Zombie-BlueCharcoal-3{
+    border: 3px solid #020e1e !important;
+}
+
+.border-Zombie-BlueCharcoal-4{
+    border: 4px solid #020e1e !important;
+}
+
+.border-Zombie-BlueCharcoal-5{
+    border: 5px solid #020e1e !important;
+}
+
+.text-Zombie-BlueCharcoal{
+    color: #020e1e !important;
+}
+
+.form-Zombie-BlueCharcoal{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Zombie-BlueCharcoal:focus{
+    box-shadow: 0 0 5px #020e1e !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #020e1e !important;
+}
+
+.spinner-Zombie-BlueCharcoal{
+    border-bottom-color:transparent !important ;
+    border-top-color: #020e1e !important;
+    border-right-color: #020e1e !important;
+    border-left-color: #020e1e !important;
+}
+
+/* color-3 ends */
+
+/* color-4 BlackPearl */
+
+
+.btn-Zombie-BlackPearl{
+    background-color:#08182f !important;
+}
+
+.btn-Zombie-BlackPearl:hover{
+    background-color: rgb(3, 13, 71) !important;
+   
+}
+
+.bg-Zombie-BlackPearl{
+    background-color:#08182f !important;
+}
+
+.border-Zombie-BlackPearl-1{
+    border: 1px solid#08182f !important;
+}
+
+.border-Zombie-BlackPearl-2{
+    border: 2px solid#08182f !important;
+}
+
+.border-Zombie-BlackPearl-3{
+    border: 3px solid#08182f !important;
+}
+
+.border-Zombie-BlackPearl-4{
+    border: 4px solid#08182f !important;
+}
+
+.border-Zombie-BlackPearl-5{
+    border: 5px solid#08182f !important;
+}
+
+.text-Zombie-BlackPearl{
+    color:#08182f !important;
+}
+
+.form-Zombie-BlackPearl{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Zombie-BlackPearl:focus{
+    box-shadow: 0 0 5px#08182f !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#08182f !important;
+}
+
+.spinner-Zombie-BlackPearl{
+    border-bottom-color:transparent !important ;
+    border-top-color:#08182f !important;
+    border-right-color:#08182f !important;
+    border-left-color:#08182f !important;
+}
+
+/* color-4 ends */
+
+/* color-5 Cream */
+
+
+.btn-Zombie-Cream{
+    background-color:#E9de9c !important;
+}
+
+.btn-Zombie-Cream:hover{
+    background-color: rgb(221, 219, 92) !important;
+   
+}
+
+.bg-Zombie-Cream{
+    background-color:#E9de9c !important;
+}
+
+.border-Zombie-Cream-1{
+    border: 1px solid#E9de9c !important;
+}
+
+.border-Zombie-Cream-2{
+    border: 2px solid#E9de9c !important;
+}
+
+.border-Zombie-Cream-3{
+    border: 3px solid#E9de9c !important;
+}
+
+.border-Zombie-Cream-4{
+    border: 4px solid#E9de9c !important;
+}
+
+.border-Zombie-Cream-5{
+    border: 5px solid#E9de9c !important;
+}
+
+.text-Zombie-Cream{
+    color:#E9de9c !important;
+}
+
+.form-Zombie-Cream{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-Zombie-Cream:focus{
+    box-shadow: 0 0 5px#E9de9c !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid#E9de9c !important;
+}
+
+.spinner-Zombie-Cream{
+    border-bottom-color:transparent !important ;
+    border-top-color:#E9de9c !important;
+    border-right-color:#E9de9c !important;
+    border-left-color:#E9de9c !important;
+}
+
+/* color-5 ends */

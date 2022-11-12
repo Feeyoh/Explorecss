@@ -1,0 +1,310 @@
+/* color-1 perutan */
+
+.btn-vispedi-perutan{
+    background-color: #8d2700 !important;
+}
+
+.btn-vispedi-perutan:hover{
+    background-color: rgba(141, 40, 0, 0.842) !important;
+   
+}
+
+.bg-vispedi-perutan{
+    background-color: #8d2700 !important;
+}
+
+.border-vispedi-perutan-1{
+    border: 1px solid #8d2700 !important;
+}
+
+.border-vispedi-perutan-2{
+    border: 2px solid #8d2700 !important;
+}
+
+.border-vispedi-perutan-3{
+    border: 3px solid #8d2700 !important;
+}
+
+.border-vispedi-perutan-4{
+    border: 4px solid #8d2700 !important;
+}
+
+.border-vispedi-perutan-5{
+    border: 5px solid #8d2700 !important;
+}
+
+.text-vispedi-perutan{
+    color: #8d2700 !important;
+}
+
+.form-vispedi-perutan{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-vispedi-perutan:focus{
+    box-shadow: 0 0 5px #8d2700 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #8d2700 !important;
+}
+
+.spinner-vispedi-perutan{
+    border-bottom-color:transparent !important ;
+    border-top-color: #8d2700 !important;
+    border-right-color: #8d2700 !important;
+    border-left-color: #8d2700 !important;
+}
+
+/* color-1 ends */
+
+/* color-2 desert */
+.btn-vispedi-desert{
+    background-color: #b54925 !important;
+}
+
+.btn-vispedi-desert:hover{
+    background-color: rgba(181, 73, 37, 0.842) !important;
+   
+}
+
+.bg-vispedi-desert{
+    background-color: #b54925 !important;
+}
+
+.border-vispedi-desert-1{
+    border: 1px solid #b54925 !important;
+}
+
+.border-vispedi-desert-2{
+    border: 2px solid #b54925 !important;
+}
+
+.border-vispedi-desert-3{
+    border: 3px solid #b54925 !important;
+}
+
+.border-vispedi-desert-4{
+    border: 4px solid #b54925 !important;
+}
+
+.border-vispedi-desert-5{
+    border: 5px solid #b54925 !important;
+}
+
+.text-vispedi-desert{
+    color: #b54925 !important;
+}
+
+.form-vispedi-desert{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-vispedi-desert:focus{
+    box-shadow: 0 0 5px #b54925 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #b54925 !important;
+}
+
+.spinner-vispedi-desert{
+    border-bottom-color:transparent !important ;
+    border-top-color: #b54925 !important;
+    border-right-color: #b54925 !important;
+    border-left-color: #b54925 !important;
+}
+
+/* color-2 ends */
+
+/* color-3 yelloworange */
+
+.btn-vispedi-yelloworange{
+    background-color: #fcaf39 !important;
+}
+
+.btn-vispedi-yelloworange:hover{
+    background-color: rgba(252, 174, 57, 0.904)  !important;
+   
+}
+
+.bg-vispedi-yelloworange{
+    background-color: #fcaf39 !important;
+}
+
+.border-vispedi-yelloworange-1{
+    border: 1px solid #fcaf39 !important;
+}
+
+.border-vispedi-yelloworange-2{
+    border: 2px solid #fcaf39 !important;
+}
+
+.border-vispedi-yelloworange-3{
+    border: 3px solid #fcaf39 !important;
+}
+
+.border-vispedi-yelloworange-4{
+    border: 4px solid #fcaf39 !important;
+}
+
+.border-vispedi-yelloworange-5{
+    border: 5px solid #fcaf39 !important;
+}
+
+.text-vispedi-yelloworange{
+    color: #fcaf39 !important;
+}
+
+.form-vispedi-yelloworange{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-vispedi-yelloworange:focus{
+    box-shadow: 0 0 5px #fcaf39 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #fcaf39 !important;
+}
+
+.spinner-vispedi-yelloworange{
+    border-bottom-color:transparent !important ;
+    border-top-color: #fcaf39 !important;
+    border-right-color: #fcaf39 !important;
+    border-left-color: #fcaf39 !important;
+}
+
+/* color-3 ends */
+
+/* color-4 visvis */
+
+
+.btn-vispedi-visvis{
+    background-color: #fff0a6 !important;
+}
+
+.btn-vispedi-visvis:hover{
+    background-color: #fff0a6c7 !important;
+   
+}
+
+.bg-vispedi-visvis{
+    background-color: #fff0a6 !important;
+}
+
+.border-vispedi-visvis-1{
+    border: 1px solid #fff0a6 !important;
+}
+
+.border-vispedi-visvis-2{
+    border: 2px solid #fff0a6 !important;
+}
+
+.border-vispedi-visvis-3{
+    border: 3px solid #fff0a6 !important;
+}
+
+.border-vispedi-visvis-4{
+    border: 4px solid #fff0a6 !important;
+}
+
+.border-vispedi-visvis-5{
+    border: 5px solid #fff0a6 !important;
+}
+
+.text-vispedi-visvis{
+    color: #fff0a6 !important;
+}
+
+.form-vispedi-visvis{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-vispedi-visvis:focus{
+    box-shadow: 0 0 5px #fff0a6 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #fff0a6 !important;
+}
+
+.spinner-vispedi-visvis{
+    border-bottom-color:transparent !important ;
+    border-top-color: #fff0a6 !important;
+    border-right-color: #fff0a6 !important;
+    border-left-color: #fff0a6 !important;
+}
+
+/* color-4 ends */
+
+/* color-5 viridian */
+
+
+.btn-vispedi-viridian{
+    background-color: #468866 !important;
+}
+
+.btn-vispedi-viridian:hover{
+    background-color: #468866cc !important;
+   
+}
+
+.bg-vispedi-viridian{
+    background-color: #468866 !important;
+}
+
+.border-vispedi-viridian-1{
+    border: 1px solid #468866 !important;
+}
+
+.border-vispedi-viridian-2{
+    border: 2px solid #468866 !important;
+}
+
+.border-vispedi-viridian-3{
+    border: 3px solid #468866 !important;
+}
+
+.border-vispedi-viridian-4{
+    border: 4px solid #468866 !important;
+}
+
+.border-vispedi-viridian-5{
+    border: 5px solid #468866 !important;
+}
+
+.text-vispedi-viridian{
+    color: #468866 !important;
+}
+
+.form-vispedi-viridian{
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #DDDDDD;
+}
+   
+ .form-vispedi-viridian:focus{
+    box-shadow: 0 0 5px #468866 !important;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid #468866 !important;
+}
+
+.spinner-vispedi-viridian{
+    border-bottom-color:transparent !important ;
+    border-top-color: #468866 !important;
+    border-right-color: #468866 !important;
+    border-left-color: #468866 !important;
+}
+
+/* color-5 ends */
